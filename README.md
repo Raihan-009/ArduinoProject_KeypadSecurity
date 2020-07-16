@@ -20,3 +20,7 @@ I have also used a (16 by 2) ***lcd display*** with ***I2C*** to show something 
 I have aslo used a ***servo motor*** to make door open or close when it requires.
 ***Jumper wires*** are used to connect one to another electronics to make the whole circuit complete.
 ***Bread Board*** has used to make multiple common 5V and gnd(ground) with the help of ***5V adapter***.
+
+## Here is the different image views of this hand-out project
+
+<img width="461" alt="KeypadSecurity" src="https://user-images.githubusercontent.com/64744693/87662393-f7304380-c783-11ea-81c3-3234a8975402.png">
